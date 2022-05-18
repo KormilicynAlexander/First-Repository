@@ -1,0 +1,37 @@
+.bold-title-text {
+    font-size: 15pt;
+    font-weight: bold;
+}
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.FS15pt {
+    font-size: 15pt;
+}
+.bold {
+    font-weight: bold;
+}
+.FS22pt {
+    font-size: 22pt;
+}
+.FS12pt {
+    font-size: 12pt;
+}
+.FS11pt {
+    font-size: 11pt;
+}
+.FS27pt {
+    font-size: 27pt;
+}
+.xx-large {
+    font-size: xx-large;
+}
+.FS45px {
+    font-size: 45px;
+}
+.FS18px {
+    font-size: 18px;
+}
+.smaller {
+    font-size: smaller;
+}
