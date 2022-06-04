@@ -1,0 +1,48 @@
+.bc-black {
+    background-color: black;
+}
+.bc-white {
+    background-color: white;
+}
+.bc-orange {
+    background-color: orange;
+}
+.bc-light_grey {
+    background-color: rgb(223, 223, 223);
+}
+.bc-light-dark_grey {
+    background-color: rgb(151, 151, 151);
+}
+.bc-grey {
+    background-color: rgb(107, 107, 107);
+}
+.bc-darkest_light_grey {
+    background-color: rgb(119, 118, 118);
+}
+.bc-darkest_grey {
+    background-color: rgb(85, 85, 85);
+}
+.bc-grey_white {
+    background-color: rgb(245, 245, 245);
+}
+.white {
+    color: white;
+}
+.orange {
+    color: orange;
+}
+.black {
+    color: black;
+}
+.lightest_grey {
+    color: rgb(223, 223, 223);
+}
+.light_grey {
+    color: rgb(209, 209, 209);
+}
+.dark_grey {
+    color: rgb(161, 161, 161);
+}
+.darkest_grey {
+    color: rgb(136, 136, 136);
+}
